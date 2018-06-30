@@ -11,6 +11,8 @@ This app includes example code showing you how to:
 - Re-colour your SVG images at run time using CSS.
 - Create simple animations using [`ValueAnimator`](https://developer.android.com/reference/android/animation/ValueAnimator).
 
+<a href='https://play.google.com/store/apps/details?id=com.caverock.androidsvgsample&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 ## Feedback
 
 If you find any bugs with this application, or have suggestions on other useful examples I could add, please [file an issue](https://github.com/BigBadaboom/androidsvgsampleapp/issues).
