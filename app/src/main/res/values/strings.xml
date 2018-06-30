@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AndroidSVG Sample App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">AndroidSVG sample app</string>
+    <string name="nav_header_subtitle">SVG rendering library for Android</string>
+
+    <string name="nav_main">Home</string>
+    <string name="nav_group_basic">Basic examples</string>
+    <string name="nav_render_to_image">Render to an image</string>
+
+    <string name="nav_group_effects">Effects</string>
+    <string name="nav_colour_change">Changing colours</string>
+
+    <string name="nav_group_animation">Simple animation</string>
+    <string name="nav_line_drawing">Line drawing</string>
+    <string name="nav_line_drawing_and_image">Lines with image</string>
+
+    <string name="page_main_title">Hello!</string>
+    <string name="page_main_subtitle">This is a demonstration app for the AndroidSVG library, which allows you to include SVG images in your apps.</string>
+
+    <string name="title_activity_colour_change">Change SVG colours</string>
+    <string name="colour_change_instructions">Tap either image to change its colours</string>
+    <string name="description_lego_bricks">Four stacked Lego bricks</string>
+    <string name="description_rubiks_cube">Rubik\'s cube</string>
+
+    <string name="title_render_to_image">Render an SVG to an Android Bitmap at various sizes. Tap to regenerate the image.</string>
+    <string name="description_render_to_image">Render aA seven-lobed flower shape which animates onto screen as if drawn by a pencil.</string>
+
+    <string name="title_line_draw_animation">Animated line drawing using stroke-dashoffset</string>
+    <string name="description_line_draw_animation">A seven-lobed flower shape which animates onto screen as if drawn by a pencil.</string>
+
+    <string name="title_line_draw_and_image_animation">Another animated line drawing example.\nTap to restart animation.</string>
+    <string name="description_line_draw_and_image_animation">Animation featuring multiple lines drawing, and concluding with the fading in of an image of a plate of orange slices.</string>
+
+    <string name="nav_about">About</string>
+</resources>
