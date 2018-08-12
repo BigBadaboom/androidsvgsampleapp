@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 repositories {
-    maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
+    //maven { url "https://oss.sonatype.org/content/repositories/snapshots" }
 }
 
 android {
@@ -38,5 +38,6 @@ dependencies {
     //androidTestImplementation 'com.android.support.test:runner:1.0.2'
     //androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
-    implementation group: 'com.caverock', name: 'androidsvg-aar', version: '1.3-SNAPSHOT'
+    //implementation group: 'com.caverock', name: 'androidsvg-aar', version: '1.3-SNAPSHOT'
+    implementation group: 'com.caverock', name: 'androidsvg-aar', version: '1.3'
 }
